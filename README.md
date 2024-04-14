@@ -77,14 +77,14 @@ The task was to recharge a Li ion battery using solar panel. A boost coverter co
 **_TASK 11_**
 
 This task included the usage of 555 timer and light dependent resistor to make an automatic headlight.
-![This is my tinkercad circuit](https://www.tinkercad.com/things/entuZCIwFSR-fantastic-snicket)
+[This is my tinkercad circuit](https://www.tinkercad.com/things/entuZCIwFSR-fantastic-snicket)
 
 
 **_TASK 12_**
 
 
 This task was about making a solar panel using 4 photdiodes and check if it works using a multimeter.
-![This is my tinkercad circuit](https://www.tinkercad.com/things/61dBguI9rXT-solar-panel-from-diodes?sharecode=o7CMmCKpHAENVKDQUaHKTqETCYXLQYKpW0riAb-mzs4)
+[This is my tinkercad circuit](https://www.tinkercad.com/things/61dBguI9rXT-solar-panel-from-diodes?sharecode=o7CMmCKpHAENVKDQUaHKTqETCYXLQYKpW0riAb-mzs4)
 
 
 **_TASK 13_**
