@@ -34,7 +34,7 @@ Again, even here the tasks differ by their code.
 
 
 In this particular task, we had to measure the temperature using the lm35 temperature sensor and display it on an lcd screen and also set a threshold value such that when temperature goes beyond this value, an led turns on.
-[Here's the link my tnkercad circuit.](https://www.tinkercad.com/things/iAWaCfF3Xd1-temp-measuring-thingy)
+[Here's the link my tinkercad circuit.](https://www.tinkercad.com/things/iAWaCfF3Xd1-temp-measuring-thingy)
 
 
 **_TASK 7_**
@@ -51,6 +51,7 @@ The readings were to be displayed on the lcd screen. For this, two very importan
 
 
 Learnt about what a Brushless DC motor is. It has a permanent magnet. Here, the commutation or the change in the direction of current and concepts of electromagnetism are used. Unlike the usual DC motors, here there is no physical commutator, which is generally a segmented metallic ring attached to the rotor shaft and also, there are no brushes here, which has multiple advantages, like no wear and tear, no electrical noise produced when there's arcing and sparking. 
+![a3144_hall_setup_wiring](https://github.com/varsharao2005/level2/assets/148563974/5929c413-c71b-4c89-91e1-cc20af2f9818)
 ![download](https://github.com/varsharao2005/level2/assets/148563974/da406929-29d4-4c73-800e-8990369add6a)
 The principle of the Hall effect states that when a current-carrying conductor or a semiconductor is introduced to a perpendicular magnetic field, a voltage can be measured at the right angle to the current path. Speed calculation is done by calculating periods of the Hall Effect Sensor signal.
 
