@@ -33,18 +33,21 @@ Again, even here the tasks differ by their code.
 **_TASK 6_**
 
 
-In this particular task, we had to measure the temperature using the lm35 temperature sensor and display it on an lcd screen and also set a threshold value such that when temperature goes beyond this value, an led turns on.
+In this particular task, we had to measure the temperature using the lm35 temperature sensor and display it on the screen and also set a threshold value such that when temperature goes beyond this value, an led turns on. I had set the threshold value at 25. 
 [Here's the link my tinkercad circuit.](https://www.tinkercad.com/things/iAWaCfF3Xd1-temp-measuring-thingy)
+
+![WhatsApp Image 2024-05-04 at 09 19 26_7cf53889](https://github.com/varsharao2005/level2/assets/148563974/e2a1d28b-e69c-4d72-b8f1-a821ec36d59e)
+![WhatsApp Image 2024-05-04 at 09 18 24_f4a05328](https://github.com/varsharao2005/level2/assets/148563974/961cdc87-25d8-446d-a4ab-611865276a6b)
+![WhatsApp Image 2024-05-04 at 09 20 22_e25c9d93](https://github.com/varsharao2005/level2/assets/148563974/f553d07c-78ae-46b0-8f4c-d988b90fdfe5)
 
 
 **_TASK 7_**
 
 
 This task involves the use of DHT11 which is the temperature and humidity sensor. The sensor has a moisture holding substrate held between two electrodes along with a thermal resistor that senses the temperature. It can measure temperature within the range of 0-50 and humidity from 20-90%. As the temperature and relative humidity increase, the resistance decreases.
-The readings were to be displayed on the lcd screen. For this, two very important libraries used in the Arduino IDE are LiquidCrystalDisplay and DHT11.h. 
-
-![10c0ea4c-da23-4c01-a694-bb8eec1d6ae0](https://github.com/varsharao2005/level2/assets/148563974/06acb3bf-ca95-43cd-96aa-93b4ccaac8f6)
-![15AR-05](https://github.com/varsharao2005/level2/assets/148563974/80684169-4ec9-407f-b31c-a4254310c96b)
+![WhatsApp Image 2024-05-04 at 09 22 20_5b7cda2a](https://github.com/varsharao2005/level2/assets/148563974/0825b011-90ec-4164-be5c-d965e6c5fdf9)
+![WhatsApp Image 2024-05-04 at 09 22 20_228a13ad](https://github.com/varsharao2005/level2/assets/148563974/34be45b1-2fb4-4507-80ed-c276483fe03d)
+![WhatsApp Image 2024-05-04 at 09 22 21_c3f5e465](https://github.com/varsharao2005/level2/assets/148563974/bf2988d5-4f6e-4422-ade5-2eac7444b49d)
 
 
 **_TASK 8_**
@@ -85,11 +88,16 @@ This task included the usage of 555 timer and light dependent resistor to make a
 
 This task was about making a solar panel using 4 photdiodes and check if it works using a multimeter.
 [This is my tinkercad circuit](https://www.tinkercad.com/things/61dBguI9rXT-solar-panel-from-diodes?sharecode=o7CMmCKpHAENVKDQUaHKTqETCYXLQYKpW0riAb-mzs4)
+![WhatsApp Image 2024-05-04 at 09 24 37_ba1506f1](https://github.com/varsharao2005/level2/assets/148563974/bca90cc9-bf66-441a-9fff-5fe4db2679fb)
+![WhatsApp Image 2024-05-04 at 09 24 37_66d9d050](https://github.com/varsharao2005/level2/assets/148563974/8f499573-6d08-4b3d-825d-8f22e345fefb)
+![WhatsApp Image 2024-05-04 at 09 24 37_9f62c565](https://github.com/varsharao2005/level2/assets/148563974/314717ac-21da-463c-b38a-000ef9d2dd2b)
+
 
 
 **_TASK 13_**
 
 
-This involves making of a system, in which the solar panel follows the sun to maximize the energy absorbed by the solar panel, using LDR and servo motor, controlling movement along two axes.
-![6dab8a93-4f37-4622-bb44-30b5a0decd33](https://github.com/varsharao2005/level2/assets/148563974/41f5ef24-bae2-40f0-b2de-25c3ab1d62f7)
+This involves making of a system, in which the solar panel follows the sun to maximize the energy absorbed by the solar panel, using LDR and servo motor.
 
+![6dab8a93-4f37-4622-bb44-30b5a0decd33](https://github.com/varsharao2005/level2/assets/148563974/41f5ef24-bae2-40f0-b2de-25c3ab1d62f7)
+![WhatsApp Image 2024-05-04 at 09 26 34_21686a74](https://github.com/varsharao2005/level2/assets/148563974/7a6e8994-f8f8-4827-a47e-5ee55b59e58b)
